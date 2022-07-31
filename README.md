@@ -19,44 +19,17 @@
 Zang, Yaohua and Bao, Gang and Ye, Xiaojing and Zhou, Haomin.
 Weak adversarial networks for high-dimensional partial differential equations.
 Journal of Computational Physics, 411:109409, 2020.
-<!-- Dijkstra, E. W. (1968). 
-Go to statement considered harmful. 
-Communications of the ACM, 11(3), 147-148. -->
 
+<a id="2">[2]</a> 
+Bao, Gang and Ye, Xiaojing and Zang, Yaohua and Zhou, Haomin.
+Numerical solution of inverse problems by weak adversarial networks.
+Inverse Problems, 36(11):115003, 2020.
 
+<a id='3'>[3]</a> 
+Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E.
+Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.
+Journal of Computational physics, 378:686--707, 2019.
 
-
-
-@article{wan,
-  title={Weak adversarial networks for high-dimensional partial differential equations},
-  author={Zang, Yaohua and Bao, Gang and Ye, Xiaojing and Zhou, Haomin},
-  journal={Journal of Computational Physics},
-  volume={411},
-  pages={109409},
-  year={2020},
-  publisher={Elsevier}
-}
-
-@article{num,
-  title={Numerical solution of inverse problems by weak adversarial networks},
-  author={Bao, Gang and Ye, Xiaojing and Zang, Yaohua and Zhou, Haomin},
-  journal={Inverse Problems},
-  volume={36},
-  number={11},
-  pages={115003},
-  year={2020},
-  publisher={IOP Publishing}
-}
-
-@article{pinn,
-  title={Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations},
-  author={Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E},
-  journal={Journal of Computational physics},
-  volume={378},
-  pages={686--707},
-  year={2019},
-  publisher={Elsevier}
-}
 
 @article{drm,
   title={The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems},
