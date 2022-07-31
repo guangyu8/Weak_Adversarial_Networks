@@ -1,5 +1,7 @@
 # Implementation of Using WAN(Weak Adversarial Networks) to Solve Inverse Problem
 
+Implementation of WAN, also includes the implementation of PINN(Physics-informed neural networks) and DRM(Deep Ritz Method) for comparison.
+
 ### Files Root directory
 
 * `README.md` explains the whole package.
