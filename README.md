@@ -28,16 +28,9 @@ Inverse Problems, 36(11):115003, 2020.
 <a id='3'>[3]</a> 
 Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E.
 Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations.
-Journal of Computational physics, 378:686--707, 2019.
+Journal of Computational physics, 378:686-707, 2019.
 
-
-@article{drm,
-  title={The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems},
-  author={Yu, Bing and others},
-  journal={Communications in Mathematics and Statistics},
-  volume={6},
-  number={1},
-  pages={1--12},
-  year={2018},
-  publisher={Springer}
-}
+<a id='4'>[4]</a> 
+Yu, Bing and others.
+The deep Ritz method: a deep learning-based numerical algorithm for solving variational problems.
+Communications in Mathematics and Statistics, 6(1):1-12, 2018.
