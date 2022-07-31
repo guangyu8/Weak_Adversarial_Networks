@@ -15,6 +15,18 @@
 
 
 ## References
+<a id="1">[1]</a> 
+Zang, Yaohua and Bao, Gang and Ye, Xiaojing and Zhou, Haomin.
+Weak adversarial networks for high-dimensional partial differential equations.
+Journal of Computational Physics, 411:109409, 2020.
+<!-- Dijkstra, E. W. (1968). 
+Go to statement considered harmful. 
+Communications of the ACM, 11(3), 147-148. -->
+
+
+
+
+
 @article{wan,
   title={Weak adversarial networks for high-dimensional partial differential equations},
   author={Zang, Yaohua and Bao, Gang and Ye, Xiaojing and Zhou, Haomin},
